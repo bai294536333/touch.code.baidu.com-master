@@ -1,1 +1,4 @@
-# touch.code.baidu.com-master
+touchjs official site
+=======
+
+for more information, please visit http://code.baidu.com.
